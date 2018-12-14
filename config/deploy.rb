@@ -1,5 +1,5 @@
 # config valid for current version and patch releases of Capistrano
-set :application, "casual"
+set :application, "test1"
 set :repo_url, "git@github.com:hideto-kashiyama/test1.git"
 set :user,            'deploy'
 set :pty,             true
