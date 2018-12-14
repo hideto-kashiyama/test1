@@ -39,5 +39,5 @@ Rails.application.configure do
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
   
-  config.action_mailer.default_url_options = { host: 'devise-master-kashiyama.c9users.io' }
+  config.action_mailer.default_url_options = { host: 'test1-kashiyama.c9users.io' }
 end
