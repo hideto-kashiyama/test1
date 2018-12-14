@@ -68,3 +68,5 @@ gem 'devise'
 gem "font-awesome-rails"
 gem 'will_paginate'
 gem "config"
+
+gem "sprockets", '3.7.2'
