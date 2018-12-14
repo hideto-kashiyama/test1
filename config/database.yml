@@ -29,4 +29,4 @@ production:
   pool: 5
   username: kwes
   password: <%= ENV['DB_PASSWORD'] %>
-  host: localhost
+
